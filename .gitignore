@@ -1,0 +1,4 @@
+# Model checkpoints
+    *.pt
+    *.pth
+    *.safetensors
